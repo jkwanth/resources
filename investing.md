@@ -1,0 +1,4 @@
+# Investing
+
+* [Meb Faber]
+* [Quantopian]
