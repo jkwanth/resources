@@ -1,6 +1,6 @@
 # resources
 
-The internet holds vast amounts of knowledge.
+Keeping things organized.
 
 * [Investing](./investing.md)
 * [Coding](./coding.md)
