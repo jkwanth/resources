@@ -14,6 +14,10 @@
 * [CXO][CXO]
 * Risk Parity
 * [Alpha Architect][AA]
+* Books
+  + The Little Book That Still Beats the Market
+  + Your Next Great Stock: How to Screen the Market for Tomorrow's Top Performers
+  + What Works on Wall Street
 
 [MB]: http://mebfaber.com/
 [CXO]: https://www.cxoadvisory.com/start/
