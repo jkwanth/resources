@@ -19,11 +19,12 @@
   + The Little Book That Still Beats the Market
   + Your Next Great Stock: How to Screen the Market for Tomorrow's Top Performers
   + What Works on Wall Street
-* Idea
+* Ideas
   + New money rebalancing >> Full portfolio
   + 40% tactical (ETF + Currency)
   + Deep Value
   + Simple (EW), Advanced (Optimized Weight)
+  + Never buy anything that is on a downtrend
   
 
 [MB]: http://mebfaber.com/
