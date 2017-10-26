@@ -19,6 +19,12 @@
   + The Little Book That Still Beats the Market
   + Your Next Great Stock: How to Screen the Market for Tomorrow's Top Performers
   + What Works on Wall Street
+* Idea
+  + New money rebalancing >> Full portfolio
+  + 40% tactical (ETF + Currency)
+  + Deep Value
+  + Bit
+  
 
 [MB]: http://mebfaber.com/
 [CXO]: https://www.cxoadvisory.com/start/
