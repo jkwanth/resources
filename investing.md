@@ -23,7 +23,7 @@
   + New money rebalancing >> Full portfolio
   + 40% tactical (ETF + Currency)
   + Deep Value
-  + Bit
+  + Simple (EW), Advanced (Optimized Weight)
   
 
 [MB]: http://mebfaber.com/
