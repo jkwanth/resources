@@ -27,6 +27,7 @@
   + Never buy anything that is on a downtrend
   + Don't underestimate currencies
   + Max 5% on blind-speculation, profits can be reinvested after 40% is realized and paid-out
+  + 
   
 
 [MB]: http://mebfaber.com/
