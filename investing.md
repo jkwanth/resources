@@ -14,6 +14,7 @@
 * [CXO][CXO]
 * Risk Parity
 * [Alpha Architect][AA]
+* [AAA Quants][AAA]
 * Books
   + The Little Book That Still Beats the Market
   + Your Next Great Stock: How to Screen the Market for Tomorrow's Top Performers
@@ -23,3 +24,4 @@
 [CXO]: https://www.cxoadvisory.com/start/
 [MB1]: http://mebfaber.com/timing-model/
 [AA]: https://alphaarchitect.com/alpha-architect-white-papers/
+[AAA]: http://aaaquants.com
