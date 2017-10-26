@@ -25,6 +25,7 @@
   + Deep Value
   + Simple (EW), Advanced (Optimized Weight)
   + Never buy anything that is on a downtrend
+  + Don't underestimate currencies
   
 
 [MB]: http://mebfaber.com/
