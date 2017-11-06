@@ -15,6 +15,8 @@
 * Risk Parity
 * [Alpha Architect][AA]
 * [AAA Quants][AAA]
+* [ExtraDash][Ex]
+* [EJFQ]
 * Books
   + The Little Book That Still Beats the Market
   + Your Next Great Stock: How to Screen the Market for Tomorrow's Top Performers
@@ -37,3 +39,4 @@
 [MB1]: http://mebfaber.com/timing-model/
 [AA]: https://alphaarchitect.com/alpha-architect-white-papers/
 [AAA]: http://aaaquants.com
+[EX]: https://extradash.com
