@@ -10,12 +10,14 @@
     - (<http://3p5bnx3przb73659la2iupn2.wpengine.netdna-cdn.com/wp-content/uploads/2017/10/SYLD-3.31.17.pdf>)
   + Momentum
   + Value
+* [Optimal Momentum - Gary Antonacci][OM]
 * [Quantopian]
 * [CXO][CXO]
 * Risk Parity
 * [Alpha Architect][AA]
 * [AAA Quants][AAA]
 * [ExtraDash][Ex]
+* [AllocateSmartly][As]
 * [EJFQ]
 * Books
   + The Little Book That Still Beats the Market
@@ -41,3 +43,5 @@
 [AA]: https://alphaarchitect.com/alpha-architect-white-papers/
 [AAA]: http://aaaquants.com
 [EX]: https://extradash.com
+[As]: https://allocatesmartly.com
+[OM]: http://optimalmomentum.com
