@@ -35,6 +35,8 @@
   + Gain/Loss Management, Stop Loss Strategy?
   + Low Beta
   + Sell in May and go away
+  + Consecutive Weeks
+  + Volume-ranked signal
   
 
 [MB]: http://mebfaber.com/
