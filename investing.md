@@ -19,6 +19,7 @@
 * [ExtraDash][Ex]
 * [AllocateSmartly][As]
 * [EJFQ]
+* <http://www.guppytraders.com/gup329.shtml>
 * Books
   + The Little Book That Still Beats the Market
   + Your Next Great Stock: How to Screen the Market for Tomorrow's Top Performers
