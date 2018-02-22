@@ -38,7 +38,10 @@
   + Sell in May and go away
   + Consecutive Weeks
   + Volume-ranked signal
-  
+  + Stop-Loss
+  + multi-asset (benchmarks)
+  + equal risk contribution
+  + stock-picking vs (index+tactical) grid
 
 [MB]: http://mebfaber.com/
 [CXO]: https://www.cxoadvisory.com/start/
