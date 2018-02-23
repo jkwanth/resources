@@ -42,6 +42,7 @@
   + multi-asset (benchmarks)
   + equal risk contribution
   + stock-picking vs (index+tactical) grid
+  + USD weakness
 
 [MB]: http://mebfaber.com/
 [CXO]: https://www.cxoadvisory.com/start/
